@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f5cf06;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    padding: 40px;
+    gap: 10px;
+    align-items: center;
+}
+
+header span { 
+    width: 100%;
+    font-size: 32px;
+    color: #8e4106;
+    font-family: "Righteous";
+
+}
+
+main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Pikachu {
+    position: absolute;
+    width: 559px;
+    height: 541px;
+    top: 292px;
+    left: 440px;
+}
+smain span{
+    width: 400px;
+    height: 79px;
+    font-size: 300px;
+    color: #8e4106;
+}
+main h1 {
+    width: 400px;
+    height: 79px;
+    font-size: 300px;
+    color: white;
+    font-family: "Righteous";
+
+}
+
+main h2 {
+
+}
+
+footer {
+    height: 100px;
+    background-color: #f5cf06;
+    color: #8e4106;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-family: "Righteous";
+}
